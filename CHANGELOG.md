@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.1.4] - 2026-10-16
+
+### Changed
+
+- Publish the module under `github.com/cautem/quarshell-slogx`; earlier tags keep their original module path.
+
 ## [v0.1.0-beta.1] - 2026-10-10
 
 ### Changed
