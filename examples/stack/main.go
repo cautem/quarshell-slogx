@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/cautem/slogx"
+	"github.com/cautem/quarshell-slogx"
 )
 
 func main() {

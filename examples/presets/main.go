@@ -5,7 +5,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/cautem/slogx"
+	"github.com/cautem/quarshell-slogx"
 )
 
 func main() {

@@ -4,7 +4,7 @@ package main
 import (
 	"context"
 
-	"github.com/cautem/slogx"
+	"github.com/cautem/quarshell-slogx"
 )
 
 type CreateUserRequest struct {
