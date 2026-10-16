@@ -60,4 +60,4 @@ formatters:
   settings:
     goimports:
       local-prefixes:
-        - github.com/cautem/slogx
+        - github.com/cautem/quarshell-slogx

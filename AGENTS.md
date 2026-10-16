@@ -3,7 +3,7 @@
 ## Scope
 
 This repository provides structured logging helpers built on Go's
-`log/slog`. Its published module path remains `github.com/cautem/slogx` and its
+`log/slog`. Its published module path remains `github.com/cautem/quarshell-slogx` and its
 license is MIT.
 
 ## Working rules

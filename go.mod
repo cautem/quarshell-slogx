@@ -1,4 +1,4 @@
-module github.com/cautem/slogx
+module github.com/cautem/quarshell-slogx
 
 go 1.27.0
 
